@@ -28,6 +28,31 @@ Q: <b>I should know objective C and Java thoroughly before I jump in to React Na
 A: <i>You can learn it as you go if you need to. there's also tons of pure javascript stuff that needs to be done. and documentation. lots of things :)</i>
 
 -------
+###Charlie Cheever
+<small>Charlie Cheever is the co-founder of Quora, an online knowledge market. He was formerly an engineer and manager at Facebook, where he oversaw the creation of Facebook Connect and the Facebook Platform. Prior to Facebook, Cheever was employed by Amazon.com in Seattle. He left Facebook to start Quora in June 2009 to work on Exponent.
+
+https://github.com/ccheever</small>
+
+Q: <b>What's the motivation of Exponent being free and Open Source?</b>
+
+A: <i>I really want to make something that like a 12 year old version of me would use. So, someone who doesn't know tons about programming but can learn new things and doesn't have a credit card or lots of money, but has time and creativity and a phone and friends.
+I learned to program making calculator games on TI-85, it's sad to me that kids cant make stuff on their phones today.</i>
+
+Q: <b>Why did you leave Quora?</b>
+
+A: <i>I managed the mobile teams there and it was so slow to work on those apps even tho we had good people, I found it so frustrating
+      And after I left I tried to build some mobile stuff and it was so annoying that I decided there needed to be a different way to make stuff.
+      So James and I made something like react Native called Ion. It was strikingly similar actually. But React Native already had android support and 20 people working on it, and we had 2 people.
+      So we decided to make everything else around it that we wanted to make!</i>
+      
+Q: <b>What did you do at Facebook?</b>
+      
+A: <i>I made the developer platform that all those games like FarmVille were on. Well not all of it obviously but was one of two main developers. And I worked on the first version of facebook video, then did a lot of random other things.
+Then was a manager and did login with Facebook on other sites, and then left to do Quora.</i>                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                      
+-------
 
 ###Janic Duplessis
 
