@@ -12,7 +12,7 @@ This is a compilations of answers I received from them. Some of these quotes are
 
 - [Janic Duplessis (Co-founder @App & Flow)](#janic)
 
-- [Jake Murzy (Co-founder at @commitocracy)](#jake)
+- [Jake Murzy (Co-founder @commitocracy)](#jake)
 
 - [Sunggu Hwang (CTO at ScatterLab)](#sunggu)
  
