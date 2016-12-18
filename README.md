@@ -85,5 +85,29 @@ Q: <b>Hey Jake, any tips to becoming a better programmer? :-)</b>
 A: <i>Number one thing you should do is to learn your tools before you learn the language you work in, because it will lead to faster feedback loops and you will get to experience more in less time. So install a linter and it will catch most of your errors as you type.
 It statically analyzes your code and recommends best practices to follow. You should always follow best practices until you gain enough experience to start questioning them.</i>
 
+-----------
+
+###Sunggu Hwang
+
+<small>Sunggu worked at Daum Communications for 4 years. Then, he left Daum to work at Scatter Lab as the CTO. This is his 5th year at Scatter Lab. 
+
+https://scatterlab.co.kr</small>
+
+Q: <b>How do you become a better developer?</b>
+
+A: <i>Hmm... Becoming a good developer... Every developer has his or her own personality when it comes to programming.
+As an analogy, think about blacksmiths! Not all blacksmiths are alike--some enjoy crafting the best sword, while some might enjoy testing out the sword more than crafting it.
+I am a thinker--who plans and organizes thoughts before I carry out an action. I think a good developer knows how to write concise and clean code; you should practice this habit.
+Even though the trend for programming is always changing, and many people use different languages, write a piece of code that anyone can understand without comments.</i>
+ 
+Q: <b>What do you think is the next BIG thing? </b>
+
+A: <i>I've observed the evolution of programming languages, and I think it's becoming more abstract every generation--procedural programming, imperative programming, functional programming...
+I think in the future, maybe in about 20 to 30 years, we will live in the time where the computer writes the code for us, and we just put them together like legos.</i>
+
+Q: <b>What should I focus on studying?</b>
+
+A: <i>I think deep learning is a must. Try different tutorials and learn it with passion. Math, algorithms--anything will help you in the long run.
+
 
 
