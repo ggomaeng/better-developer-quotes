@@ -3,6 +3,9 @@ I've met some amazing developers through React Native Community, and I decided t
 
 This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question.
  
+    
+[Sunggu Hwang](#sunggu)
+ 
 ##Q&A
 
 ###Brent Vatne
@@ -86,8 +89,7 @@ A: <i>Number one thing you should do is to learn your tools before you learn the
 It statically analyzes your code and recommends best practices to follow. You should always follow best practices until you gain enough experience to start questioning them.</i>
 
 -----------
-
-###Sunggu Hwang
+###<a name="sunggu"></a>Sunggu Hwang
 
 <small>Sunggu worked at Daum Communications for 4 years. Then, he left Daum to work at Scatter Lab as the CTO. This is his 5th year at Scatter Lab. 
 
