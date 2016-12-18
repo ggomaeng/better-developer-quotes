@@ -4,17 +4,17 @@ I've met some amazing developers through React Native Community, and I decided t
 This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question.
  
     
-#Interviewees
+#Interviewees / Current Position
 
-- [Brent Vatne](#brent)
+- [Brent Vatne (Front-end Developer @Exponent)](#brent) 
 
-- [Charlie Cheever](#charlie)
+- [Charlie Cheever (Co-founder @Exponent)](#charlie)
 
-- [Janic Duplessis](#janic)
+- [Janic Duplessis (Co-founder @App & Flow)](#janic)
 
-- [Jake Murzy](#jake)
+- [Jake Murzy (Co-founder at @commitocracy)](#jake)
 
-- [Sunggu Hwang](#sunggu)
+- [Sunggu Hwang (CTO at ScatterLab)](#sunggu)
  
 ##Q&A
 
