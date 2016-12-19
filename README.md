@@ -18,6 +18,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
 
+- [Keon Kim (Machine Learning Maniac @NYU)](#keon)
+
 - [Sunggu Hwang (CTO @ScatterLab)](#sunggu)
 
 - [Timothy Ko (Software Engineer @Snapchat)](#timothy)
@@ -55,10 +57,6 @@ I learned real quick that I would need to do a bunch of offline testing before r
 
 In terms of academics, I just finished CS 189, which was a massive crash course in data science, optimization, and probability theory. The programming I did in that class was also very different from what I'm used to, even though it was all in Python.
 </i>
-
-
-
-
 
 
 -------
@@ -146,6 +144,34 @@ A: <i>Number one thing you should do is to learn your tools before you learn the
 It statically analyzes your code and recommends best practices to follow. You should always follow best practices until you gain enough experience to start questioning them.</i>
 
 -----------
+
+<a name="brent"></a>
+###Keon Kim
+<small>Keon is a student at NYU who is really passionate about Machine Learning. He is very active github member who tries to contribute to open source projects related to machine learning.
+                
+https://github.com/keonkim</small>
+
+Q: <b>What are your interests? What kind of projects have you worked on?</b>
+
+A: <i>
+I've been working on machine learning projects these days. I am one of the project members of DeepCoding Project, a project with a goal of translating written English to source code. I've been contributing to a C++ machine learning framework called mlpack(https://github.com/mlpack/mlpack), which is equivalent to scikit-learn in Python. 
+
+I've also done some fun side projects: DeepStock (https://github.com/keonkim/deepstock) project is an attempt to predict the stock market trends by analyzing daily news headlines. CodeGAN (https://github.com/keonkim/CodeGAN) is a source code generator that uses one of the new deep learning methods called SeqGAN.
+</i>
+
+Q: <b> How do you become a better developer?</b>
+
+A: <i>
+I think it is really important to understand the basics.
+By basics I mean math, data structures and algorithms. 
+Deep learning is really hot right now, and I see people jumping into learning it without basic knowledge in computer science and mathematics.
+And of course most of them give up as soon as mathematical notations appear in the tutorial.
+I know this because I was one of them and it took me really long time to understand some concepts that students with a strong fundamentals could understand in a fraction of the time I spent.
+New languages, libraries, and frameworks are introduced iterally every day these days, and you need the fundamentals in order to keep up with them.
+
+</i>
+
+-------
 <a name="sunggu"></a>
 ###Sunggu Hwang
 
