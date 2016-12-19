@@ -2,9 +2,13 @@
 I've met some amazing developers through React Native Community, and I decided to ask them, "How do I become a better developer?"
 
 This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question.
+
+Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your word of wisdom with growing developers around the world! :-)
  
     
 #Interviewees / Current Position
+
+- [Aravind Kumaraguru (Engineering Director @Pioneers in Engineering)](#aravind)
 
 - [Brent Vatne (Front-end Developer @Exponent)](#brent) 
 
@@ -14,9 +18,50 @@ This is a compilations of answers I received from them. Some of these quotes are
 
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
 
-- [Sunggu Hwang (CTO at ScatterLab)](#sunggu)
+- [Sunggu Hwang (CTO @ScatterLab)](#sunggu)
+
+- [Timothy Ko (Software Engineer @Snapchat)](#timothy)
  
 ##Q&A
+
+
+<a name="aravind"></a>
+###Aravind Kumaraguru
+<small>Aravind is an undergrad at UC Berkeley for a degree in EECS, and  Engineering Director for the nonprofit organization Pioneers in Engineering.
+     
+https://pierobotics.org
+
+https://github.com/AravindK95
+
+</small>
+
+Q: <b>How do you think I can become a better developer?</b>
+
+A: <i>
+Obviously, never stay complacent with what you know - this field changes ridiculously fast, and you need to keep up with it. Follow along with the news in the tech industry, perhaps read up on some source code for a Python module that you recently used.
+
+A friend of mine had some free time over winter break, so he decided to teach himself Django and build a webapp that he could interact with over SMS. It's sort of a toy project, but he really enjoyed learning the different development paradigms. For context, he specializes in embedded systems and robotics, so this is nowhere near his comfort zone.
+
+But pushing yourself to try different things will make you much stronger as an engineer. I personally wish I had done more web stuff before this year - in my organization (PiE), we're developing a new iteration of a robotics kit to be used by highschool students. While I have a good grasp of the low-level and systems stuff, I'm at a loss when it comes managing our UI design.
+Never had an interest in doing that type of stuff full-time, but having even a surface-level knowledge can be immensely helpful
+</i>
+
+Q: <b>Do you have any projects you did to push yourself out of your comfort zone?</b>
+
+A: <i>
+I built an automated door opener last summer, which operated a mechanical lever to open a door when an RFID card was scanned.
+The project used a really powerful motor and a mess of sensors to track the state of the arm, which proved to be quite difficult to coordinate.
+I learned real quick that I would need to do a bunch of offline testing before running my code on the device, which was very different from what I was used to up till then.
+
+In terms of academics, I just finished CS 189, which was a massive crash course in data science, optimization, and probability theory. The programming I did in that class was also very different from what I'm used to, even though it was all in Python.
+</i>
+
+
+
+
+
+
+-------
 
 <a name="brent"></a>
 ###Brent Vatne
@@ -122,7 +167,48 @@ I think in the future, maybe in about 20 to 30 years, we will live in the time w
 
 Q: <b>What should I focus on studying?</b>
 
-A: <i>I think deep learning is a must. Try different tutorials and learn it with passion. Math, algorithms--anything will help you in the long run.
+A: <i>I think deep learning is a must. Try different tutorials and learn it with passion. Math, algorithms--anything will help you in the long run.</i>
 
+-----------
 
+<a name="timothy"></a>
 
+###Timothy Ko
+
+<small>Timothy is a software engineer at Snapchat. He previously worked at many places such as Riot Games, Square, etc. 
+
+https://www.linkedin.com/in/timothy-ko-33127159</small>
+
+Q: <b>What do you do at Snapchat?</b>
+
+A: <i>I'm a software engineer on the monetization team, so I work on anything related to making money.
+Some example projects are: Snapchat Discover, a news platform within the iOS and Android apps; Ad Manager, a control panel used by sales and ad operations to flight ads; Ads API, which allows third party partners to integrate their own ad platforms into Snapchat.
+Also, I was a past intern at Snapchat so I occasionally give talks and Q&As to upcoming interns. I'm also heavily invested in hiring and conduct a lot of interviews there.</i>
+
+ 
+Q: <b>What do you do on day-to-day basis?</b>
+
+A: <i>What I've mentioned previously. Also, even after I pass on the work to other people, sometimes I have to go back and help support it or be part of the technical discussions on future changes.
+When new people join the team, usually I'm the one to ramp people up on how the code base looks like, the kinds of frameworks we use, how a typical engineer workflow looks like, etc.
+</i>
+
+Q: <b>What languages / framework do you guys mostly use?</b>
+
+A: <i>
+For server code, it's usually Java and for UI we use React Redux.
+Most teams work in google appengine, which is why we use Java, but some teams switch it up a little bit due to some appengine limitations.
+And of course, the product teams work in objective C for iOS and Java for Android.
+</i>
+
+Q: <b>How do you think I can become a better developer?</b>
+
+A: <i>
+I think the best thing to do is to do as many things as possible.
+I did seven internships while in school so I already had two years of work experience before I graduated.
+Work experience is super important because coding in a hackathon, doing personal projects, and doing school assignments are totally different than working with enterprise software and apps with real users.
+But you have to start somewhere, so that's where going to school, doing personal projects, and competing in hackathons comes in.
+And while at work, i think the best way to succeed is to ask lots of questions and learn by doing.
+You can read and study all you want, but you might not understand what's going on until you actually do it.
+Another thing is code reviews -- you can do so much knowledge transfer by having a more senior engineer tear your code apart and tell you how to make it better.
+Also, if you ever come up with a proposal on how to solve a problem, getting a tech lead to bombard you with hard questions forces you to make sure you have every little detail covered.
+</i>
