@@ -145,7 +145,7 @@ It statically analyzes your code and recommends best practices to follow. You sh
 
 -----------
 
-<a name="brent"></a>
+<a name="keon"></a>
 ###Keon Kim
 <small>Keon is a student at NYU who is really passionate about Machine Learning. He is very active github member who tries to contribute to open source projects related to machine learning.
                 
