@@ -1,7 +1,9 @@
 # "How do I become a better developer?"
 I've met some amazing developers in real life and through React Native Community, and I decided to ask them, <strong>"How do I become a better developer?"</strong>
+Thank you to everyone who took the time to answer these questions with passion!
 
-This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question.
+This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question. 
+
 
 Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your word of wisdom with growing developers around the world! :-)
  
@@ -19,6 +21,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
 
 - [Keon Kim (Machine Learning Maniac @NYU)](#keon)
+
+- [Munseok Oh (Co-founder and CTO @Sketchware)](#mun)
 
 - [Sonny Lazuardi Hermawan (Engineer @Sale Stock)](#sonny)
 
@@ -174,6 +178,40 @@ New languages, libraries, and frameworks are introduced iterally every day these
 </i>
 
 -------
+
+<a name="mun"></a>
+###Munseok Oh
+<small>Munseok is a Full-stack developer and CTO at Sketchware. He previously worked at System Integration for ~7 years.  
+                
+https://sketchware.io</small>
+
+Q: <b>How do I become a better developer?</b>
+
+A: <i>
+When I was very young and cocky, I evaluated other developers based on their coding style. There were certain criterias they had to pass in order for me to judge them as a good developer. But now, I really don't think that way. Now, I believe that every developer is progressive, which means he or she is becoming a better developer every day. It doesn't really matter if the style is bad or code is good--as logn as the program runs, I think it's great! Whether the program has room for growth or has bugs, I think the motivation to develop is what really matters. Developers usually are never satisfied with their skills. They are always eager to become better--probably why you're doing this. It's really hard to justify "good developer". People like you will become better than me in no time. I still don't think I am a good developer.
+</i>
+
+Q: <b>What was the most difficult thing when you were developing Sketchware?</b>
+
+A: <i>
+Developing Sketchware wasn't too difficult, because we had a good blueprint for the item. The direction was very clear for us to follow, so developing it was a breeze. However, there was a line we had to maintain for Sketchware--this line had two conditions:
+
+1. Sketchware must be an easy tool for anyone to create applications.
+2. Whatever the user takes away from Sketchware can be applied in their future career
+
+Since we wanted Sketchware to be an efficient tool that can help users learn programming concepts, I am very considerate and think a lot when it comes to adding new features in the application.
+</i>
+
+Q: <b>As a developer, is there something you wish you knew or fixed earlier?</b>
+
+A: <i>
+I really wish I jumped into the Start-up world earlier. When it comes to developing, you need to be passionate and really enjoy what you do. Even if you pull 3 all-nighters, ponder all day long about a new algorithm, or stress about a new bug, everything will be okay if you're enjoying it. 
+It really goes back to the question #1--I get my energy from the joy I have when I develop, and that joy eventually makes you a better developer. When life hits you, most developers lose the passion to develop if you think of it as work. I used to be like that.
+But now, I'm really not worried--since developing brings joy to me now. Even if we run out of funds or our company burns down, it's really okay since I am making the most out of what I am doing.
+</i>
+
+-------
+
 <a name="sonny"></a>
 ###Sonny Lazuardi Hermawan
 
