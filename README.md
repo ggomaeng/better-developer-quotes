@@ -1,5 +1,5 @@
 # "How do I become a better developer?"
-I've met some amazing developers through React Native Community, and I decided to ask them, "How do I become a better developer?"
+I've met some amazing developers in real life and through React Native Community, and I decided to ask them, <strong>"How do I become a better developer?"</strong>
 
 This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question.
 
@@ -19,6 +19,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
 
 - [Keon Kim (Machine Learning Maniac @NYU)](#keon)
+
+- [Sonny Lazuardi Hermawan (Engineer @Sale Stock)](#sonny)
 
 - [Sunggu Hwang (CTO @ScatterLab)](#sunggu)
 
@@ -170,6 +172,29 @@ I know this because I was one of them and it took me really long time to underst
 New languages, libraries, and frameworks are introduced iterally every day these days, and you need the fundamentals in order to keep up with them.
 
 </i>
+
+-------
+<a name="sonny"></a>
+###Sonny Lazuardi Hermawan
+
+<small>Sonny is a JavaScript Full Stack Engineer, a React & React Native player, and an Open source enthusiast. He currently works as an Engineer at Sale Stock.
+
+https://github.com/sonnylazuardi</small>
+
+Q: <b>How do you become a better developer?</b>
+
+A: <i>
+I think always eager to learn is the key. Try everything, make mistakes, and learn from that mistakes. I agree that code review from partners and senior engineers will make our code better.
+Try publishing your own open source projects, meet other great developers and learn from them.
+</i>
+
+Q: <b>What's your motivation behind creating open source projects?</b>
+
+A: <i>
+I just want the people know about our idea, and try implementing it so that others can use our project. I'm really inspired by people that work on open source projects that used by many devs such as Dan Abramov that created redux.
+</i>
+
+
 
 -------
 <a name="sunggu"></a>
