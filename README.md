@@ -31,7 +31,7 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 
 <a name="aravind"></a>
 ###Aravind Kumaraguru
-<small>Aravind is an undergrad at UC Berkeley for a degree in EECS, and  Engineering Director for the nonprofit organization Pioneers in Engineering.
+<small>Aravind is an undergrad at UC Berkeley pursuing a degree in Electrical Engineering and Computer Science, and is Engineering Director for the nonprofit organization Pioneers in Engineering.
      
 https://pierobotics.org
 
@@ -149,7 +149,7 @@ It statically analyzes your code and recommends best practices to follow. You sh
 
 <a name="keon"></a>
 ###Keon Kim
-<small>Keon is a student at NYU who is really passionate about Machine Learning. He is very active github member who tries to contribute to open source projects related to machine learning.
+<small>Keon is a student at NYU who is really passionate about Machine Learning. He is a very active GitHub member who tries to contribute to open source projects related to machine learning.
                 
 https://github.com/keonkim</small>
 
