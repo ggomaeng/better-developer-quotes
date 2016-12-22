@@ -2,7 +2,7 @@
 I've met some amazing developers in real life and through React Native Community, and I decided to ask them, <strong>"How do I become a better developer?"</strong>
 Thank you to everyone who took the time to answer these questions with passion!
 
-This is a compilations of answers I received from them. Some of these quotes are not limited to answers from that specific question. 
+This is a compilation of answers I received from them. Some of these quotes are not limited to answers from that specific question. 
 
 
 Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your word of wisdom with growing developers around the world! :-)
@@ -23,6 +23,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 - [Keon Kim (Machine Learning Maniac @NYU)](#keon)
 
 - [Munseok Oh (Co-founder and CTO @Sketchware)](#mun)
+
+- [Satyajit Sahoo (UX Lead @ Glucosio & Front-end Engineer @Callstack.io)](#satyajit)
 
 - [Sonny Lazuardi Hermawan (Engineer @Sale Stock)](#sonny)
 
@@ -208,6 +210,38 @@ A: <i>
 I really wish I jumped into the Start-up world earlier. When it comes to developing, you need to be passionate and really enjoy what you do. Even if you pull 3 all-nighters, ponder all day long about a new algorithm, or stress about a new bug, everything will be okay if you're enjoying it. 
 It really goes back to the question #1--I get my energy from the joy I have when I develop, and that joy eventually makes you a better developer. When life hits you, most developers lose the passion to develop if you think of it as work. I used to be like that.
 But now, I'm really not worried--since developing brings joy to me now. Even if we run out of funds or our company burns down, it's really okay since I am making the most out of what I am doing.
+</i>
+
+-----------
+
+<a name="satyajit"></a>
+###Satyajit Sahoo
+
+<small>Satyajit is the UX Lead at Glucosio, and Front-end Engineer at Callstack.io. He is an amazing open-source contributor; he is one of the top 5 contributors in React Native 
+
+https://github.com/satya164</small>
+
+Q: <b>What is your background as a programmer?</b>
+
+A: <i>
+I don't really come from a programming background. I did my graduation in Forestry. I left post-graduation after getting a job offer and never looked back.</i>
+ 
+Q: <b>What's your day like on day to day basis?</b>
+
+A: <i>It's pretty boring. I wake up, order some breakfast online or go out, then start office work. In evening I go out to a bar or take a long walk if there's enough time left. At night I mostly watch TV series or hack on side-projects.</i>
+
+Q: <b>Motivation behind contributing to open source projects?</b>
+
+A: <i>
+I've been involved in Open Source for a long time. When I was doing my graduation I got into Linux and got introduced to the world of Open Source. I loved it how we could learn so much from other projects. It fascinated me that developers were selfless to let us see and use there code for free (mostly). I did a lot of Open Source projects in form of themes and apps during my college days, and it always made me happy when people forked them and changed to meet their needs, and send pull requests to fix things.
+
+As a developer, I contribute to Open Source projects most of the time because I need a feature, or it improves something in a project I love. I think it's better if we work together to fix stuff that are important to us rather than just filing issues.
+</i>
+
+Q: <b>How do I become a better developer?</b>
+
+A: <i>
+I think it's important that we are open to new things. There's a lot to learn, and we cannot learn if we stay in our bubble. Try new things, even if you think you can't do it, even it looks complex on the surface. I have failed to do things so many times, but eventually succeed. In the process I understand the problem and the solution, and then it becomes really simple.
 </i>
 
 -------
