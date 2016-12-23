@@ -138,7 +138,7 @@ Q: <b>What do you do at Facebook?</b>
 
 A: <i>
 I was on the photos team when I started, then I discovered React and started adopting and promoting it both internally and externally. I was there at the beginning of react native and pushed it through until 3 months ago.
-I just recently switched to the Nuclide team. i'm still #3 contributor on React Native 😛.
+I just recently switched to the Nuclide team. I'm still #3 contributor on React Native 😛.
 </i>
 
 Q: <b>Do you have any prior work experience?</b>
@@ -159,7 +159,6 @@ A: <i>
 I think that there are multiple levels.
 
 The first level is mastering all the concepts. For example yesterday I had to write a function that removes certain keys from a big nested object. Because I've done this task so many times in the past, I was able to implement it in one go without even thinking and it worked the first time.
-
 For this one, exercises are really good. You want to code the same kind of things many many times to train your muscle memory.
 
 The second level is how do you build things in a way that are not going to break in the future. Ideally, once you build something, you can move to the next thing and it'll keep working without you there. This is challenging when there's a ton of developers touching the codebase and product directions changing often.
