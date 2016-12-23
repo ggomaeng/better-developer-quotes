@@ -10,6 +10,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
     
 #Interviewees / Current Position
 
+#####The links seem do not work on mobile! :-( 
+
 - [Aravind Kumaraguru (Engineering Director @Pioneers in Engineering)](#aravind)
 
 - [Brent Vatne (Front-end Developer @Exponent)](#brent) 
@@ -19,6 +21,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 - [Janic Duplessis (Co-founder @App & Flow)](#janic)
 
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
+
+- [Jun Ho Hwang (Software Engineer @Coupang)](#junho)
 
 - [Keon Kim (Machine Learning Maniac @NYU)](#keon)
 
@@ -150,6 +154,33 @@ Q: <b>Hey Jake, any tips to becoming a better programmer? :-)</b>
 
 A: <i>Number one thing you should do is to learn your tools before you learn the language you work in, because it will lead to faster feedback loops and you will get to experience more in less time. So install a linter and it will catch most of your errors as you type.
 It statically analyzes your code and recommends best practices to follow. You should always follow best practices until you gain enough experience to start questioning them.</i>
+
+-----------
+
+<a name="junho"></a>
+###Jun Ho Hwang
+
+<small>Jun is a software engineer at Coupang, which is <i>the $5 Billion Startup Filling Amazon's Void In South Korea</i>. He is a very friendly developer who loves to connect. 
+
+https://tocology.github.io </small>
+
+Q: <b>How do you become a better developer?</b>
+
+A: <i>
+The word 'better' can be described in various ways--especially in the field of programming. A good developer could be someone who is exceptionally talented in development, someone who is amazing at communicating, or someone who understands Business very well. I peronsally think a "good" developer is someone who is in the middle--a person who can solve his or her business problem with their development skills, and communicate with others about the issue. Ultimately, to achieve this, it requires lot of practice, and I recommend you to create your own service. Looking and thinking from the perspective of the user and improving the service to fulfill their needs really helps you grow as a better developer.
+</i>
+
+Q: <b>Is there something you wish you'd known or learned earlier as a developer?</b>
+
+A: <i>
+I really wish I started my own service earlier on. The hardest thing to grasp before developing is realizing how you can apply what you learned. Many developers are afraid to start a "service" because it sounds difficult; however, pondering about what to make and where to start, and then connecting those points of thought help you grow as a better developer.
+</i>
+
+Q: <b>What do you do at Coupang? What are you currently working on?</b>
+
+A: <i>
+Coupang provides a rocket-delivery-service, and I am working on developing a system called "Coupang Car," which is related to insurance and monetary management. Furthermore, I'm thinking about adding transporation control system and the ability to analyze data from the log.
+</i>
 
 -----------
 
