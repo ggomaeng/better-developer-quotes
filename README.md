@@ -10,13 +10,15 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
     
 #Interviewees / Current Position
 
-#####The links do not work on mobile! :-( 
+#####Sorry! The links do not work on mobile! :-( 
 
 - [Aravind Kumaraguru (Engineering Director @Pioneers in Engineering)](#aravind)
 
 - [Brent Vatne (Front-end Developer @Exponent)](#brent) 
 
 - [Charlie Cheever (Co-founder @Exponent)](#charlie)
+
+- [Christopher Chedeau (Front-end Engineer @Facebook)](#christopher)
 
 - [Dan Horrigan (Senior Back-end Developer @Futuri Media)](#dan)
 
@@ -120,9 +122,64 @@ A: <i>I managed the mobile teams there and it was so slow to work on those apps 
 Q: <b>What did you do at Facebook?</b>
       
 A: <i>I made the developer platform that all those games like FarmVille were on. Well not all of it obviously but was one of two main developers. And I worked on the first version of facebook video, then did a lot of random other things.
-Then was a manager and did login with Facebook on other sites, and then left to do Quora.</i>                                                                                                                                                  
-                                                                                                                                                  
--------
+Then was a manager and did login with Facebook on other sites, and then left to do Quora.</i>                                                                                                                                                                                                                                                                               
+---------
+
+
+
+<a name="christopher"></a>
+###Christopher Chedeau
+<small>Christopher has been working at Facebook as a Front-end Engineer for about 5 years. Previously, he worked at Curse Network.
+
+https://github.com/vjeux</small>
+
+Q: <b>What do you do at Facebook?</b>
+
+A: <i>
+I was on the photos team when I started, then I discovered React and started adopting and promoting it both internally and externally. I was there at the beginning of react native and pushed it through until 3 months ago.
+I just recently switched to the Nuclide team. i'm still #3 contributor on React Native 😛.
+</i>
+
+Q: <b>Do you have any prior work experience?</b>
+
+A: <i>
+I was working for Curse (doing website for blizzard games) during my college to pay for it. It was fun to see the company go from 5 people in a guild to a 100 people company.
+</i>
+
+Q: <b>What's your day to day like at Facebook? Current project you're working on?</b>
+
+A: <i>
+I'm currently working on the Nuclide team, Facebook's IDE built on-top of Atom. I would say my time is spend half coding, half cheerleading all the cool stuff people are doing inside of fb. 
+</i>
+
+Q: <b>How do you think one can become a better developer?</b>
+
+A: <i>
+I think that there are multiple levels.
+
+The first level is mastering all the concepts. For example yesterday I had to write a function that removes certain keys from a big nested object. Because I've done this task so many times in the past, I was able to implement it in one go without even thinking and it worked the first time.
+
+For this one, exercises are really good. You want to code the same kind of things many many times to train your muscle memory.
+
+The second level is how do you build things in a way that are not going to break in the future. Ideally, once you build something, you can move to the next thing and it'll keep working without you there. This is challenging when there's a ton of developers touching the codebase and product directions changing often.
+
+Finally, the third level is how do you prevent whole class of problems from even existing in the first place. A good example is with manual dom mutations, it's very easy to trigger some code that interacts with a dom node that has been removed from the dom. React came in and made this problem go away. You have to go out of your way to do so, and even if you want to do those things, you have the tools to make it work: lifecycle events.
+</i>                    
+
+Q: <b>Is there something you wish you'd known or learned earlier as a programmer?</b>
+
+A: <i>
+Probably the most important thing is: tradeoffs, tradeoffs, tradeoffs. They are everywhere.
+
+If you are working on some random throwaway feature that no one is going to use, who cares if the code is maintainable, you need it to work and now one mistake I see a lot is that people over-engineer the easy things but are not willing to make their architecture less clean from a CS perspective even though it actually provides the user experience you need.
+
+At the end of the day, we write all this code for the users, we should first understand what the user experience should be and then do whatever it takes to get it. 
+If the user just needs to display some content and needs to be able to edit it easily, just install wordpress, pick a good looking theme and call it a day
+
+######Btw, pro-tip, if you want to be successful, always think about the value you are providing. If you are earning $100k a year, this means that the company should be making $200k because you're here
+</i>
+----------
+
 <a name="dan"></a>
 ###Dan Horrigan
 <small>Dan is a Senior Back-end developer @Futuri Media. He has 20 years of programming experience in many different languages. He's been contributing to React Native early/mid 2015.
