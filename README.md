@@ -18,6 +18,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 
 - [Charlie Cheever (Co-founder @Exponent)](#charlie)
 
+- [Dan Horrigan (Senior Back-end Developer @Futuri Media)](#dan)
+
 - [Janic Duplessis (Co-founder @App & Flow)](#janic)
 
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
@@ -120,8 +122,49 @@ Q: <b>What did you do at Facebook?</b>
 A: <i>I made the developer platform that all those games like FarmVille were on. Well not all of it obviously but was one of two main developers. And I worked on the first version of facebook video, then did a lot of random other things.
 Then was a manager and did login with Facebook on other sites, and then left to do Quora.</i>                                                                                                                                                  
                                                                                                                                                   
+-------
+<a name="dan"></a>
+###Dan Horrigan
+<small>Dan is a Senior Back-end developer @Futuri Media. He has 20 years of programming experience in many different languages. He's been contributing to React Native early/mid 2015.
+
+http://dhorrigan.com/</small>
+
+Q: <b>What's your background as a programmer?</b>
+
+A: <i>
+I started learning to programming (with QBasic) when I was 11, and was hooked.  I learned everything I could, as fast as I could. I learned a few languages like Visual Basic, and started to dabble with C and C++.  Then I found web development, and dove in head first. First, learning HTML and CSS, then adding simple CGI scripts written in Perl, and eventually Classic ASP.
+
+My first paying project was when I was 14: A website for the company my dad worked for, with a customer portal to let them see their job progress. This was all in ASP.  After that I started learning PHP, and have been using that as my language of choice ever since. However, I picked up a lot of experience with other languages along the way: JS, Python, Ruby (before Rails), Java, C#, Go, Objective-C.
+</i>
+
+Q: <b>What are some projects you're currently working on?</b>
+
+A: <i>
+I work for Futuri Media (http://futurimedia.com). We provide SaaS solutions for Broadcast Radio and TV companies. We provide white label mobile applications, social engagement and discovery, audio streaming and podcast solutions, etc. I haven't had much free time lately to contribute to many OSS projects, but hope to change that soon!
+
+Currently I am a Senior Back-End Web Developer, but I am transitioning into being the Director of Technical Operations.
+</i>
+      
+Q: <b>Is there something you wish you'd learned or knew earlier as a developer?</b>
+      
+A: <i>I wished I would have realized earlier in my career that it is OK to be wrong, and that failure is just a chance to learn.</i>
                                                                                                                                                   
-                                                                                                      
+Q: <b>What's the first step to becoming a good developer?</b>
+
+A: <i>
+Come up with a small-ish project that you think would be cool, or would make your life easier, and just jump right in.  Too many people try to learn without a goal other than "I want to learn to code." Without a goal, you are just reading docs or copy/pasting from tutorials...you can't learn that way.
+
+To become a better developer, you need to do one simple thing: Never. Stop. Learning.  Read other people's code, figure out how that one app does that really cool thing you saw, read blogs, etc. No matter how good you are, or think you are, there is always someone better, and always more to learn.
+</i>
+
+Q: <b>Is there a certain project you're currently interested in? Next on your learning list?</b>
+
+A: <i>
+I have been using, and occasionally contributing to, React Native since early/mid 2015, and continue to be interested in it.
+
+Next on my learning list is learning Erlang/Elixir. We build heavily distributed systems where I work, and think we would really benefit from a language like that.
+</i>
+
 -------
 <a name="janic"></a>
 ###Janic Duplessis
