@@ -10,7 +10,7 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
     
 #Interviewees / Current Position
 
-#####The links seem do not work on mobile! :-( 
+#####The links do not work on mobile! :-( 
 
 - [Aravind Kumaraguru (Engineering Director @Pioneers in Engineering)](#aravind)
 
