@@ -100,7 +100,7 @@ Q: <b>I should know objective C and Java thoroughly before I jump in to React Na
 
 A: <i>You can learn it as you go if you need to. there's also tons of pure javascript stuff that needs to be done. and documentation. lots of things :)</i>
 
--------
+------------
 <a name="charlie"></a>
 ###Charlie Cheever
 <small>Charlie Cheever is the co-founder of Quora, an online knowledge market. He was formerly an engineer and manager at Facebook, where he oversaw the creation of Facebook Connect and the Facebook Platform. Prior to Facebook, Cheever was employed by Amazon.com in Seattle. He left Facebook to start Quora in June 2009 to work on Exponent.
@@ -121,9 +121,10 @@ A: <i>I managed the mobile teams there and it was so slow to work on those apps 
       
 Q: <b>What did you do at Facebook?</b>
       
-A: <i>I made the developer platform that all those games like FarmVille were on. Well not all of it obviously but was one of two main developers. And I worked on the first version of facebook video, then did a lot of random other things.
-Then was a manager and did login with Facebook on other sites, and then left to do Quora.</i>                                                                                                                                                                                                                                                                               
----------
+A: <i>
+I made the developer platform that all those games like FarmVille were on. Well not all of it obviously but was one of two main developers. And I worked on the first version of facebook video, then did a lot of random other things. Then was a manager and did login with Facebook on other sites, and then left to do Quora.
+</i>
+--------------------
 
 
 
