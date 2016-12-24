@@ -22,6 +22,8 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 
 - [Dan Horrigan (Senior Back-end Developer @Futuri Media)](#dan)
 
+- [Frank W. Zammetti (Lead Architect @BNY Mellon)](#frank)
+
 - [Janic Duplessis (Co-founder @App & Flow)](#janic)
 
 - [Jake Murzy (Co-founder @commitocracy)](#jake)
@@ -178,6 +180,7 @@ If the user just needs to display some content and needs to be able to edit it e
 
 ######Btw, pro-tip, if you want to be successful, always think about the value you are providing. If you are earning $100k a year, this means that the company should be making $200k because you're here
 </i>
+
 ----------
 
 <a name="dan"></a>
@@ -220,6 +223,80 @@ A: <i>
 I have been using, and occasionally contributing to, React Native since early/mid 2015, and continue to be interested in it.
 
 Next on my learning list is learning Erlang/Elixir. We build heavily distributed systems where I work, and think we would really benefit from a language like that.
+</i>
+
+-------
+<a name="frank"></a>
+###Frank W. Zammetti
+
+<small>Frank is a lead architect for BNY Mellon by day and the author of eight
+books on various programming topics for Apress by night
+
+https://zammetti.com</small>
+
+Q: <b>How do I become a better developer?</b>
+
+A: <i>
+I get asked this question quite a bit both at work from junior developers
+and from readers of my books.  I always give the same answer: make games!
+
+It sounds like a joke answer, but it most definitely is not!  Games have a
+unique ability to touch on so many software engineering topics that you
+can't help but learn things from the experience.  Whether it's choosing
+proper data structures and algorithms, or writing optimized code (without
+getting lost in micro-optimizations - at least too soon), or various forms
+of AI, it's all stuff that is more broadly applicable outside of games.  You
+frequently deal with network coding, obviously audio and visual coding
+(which tends to open your mind to mathematical concepts you otherwise might
+not be), efficient I/O and of course overall architecture, which has to be
+clean and efficient in games (and for many games, extensible).  All those
+topics, and more, are things that come into play (hehe) when making games.
+
+It also teaches you debugging and defensive programming techniques extremely
+well because one thing people don't accept in games is errors.  It's kind of
+ironic actually: people will deal with some degree of imperfection in their
+banking web site but show a single glitch in a game and they hate it!  You
+have no choice but to write solid code in a game and you figure out what
+works and what doesn't, how to recover from unexpected conditions, how to
+spot edge cases, all of that.  It all comes into play and those are skills
+that developers need generally and which I find are most frequently lacking
+in many developers.
+
+It doesn't matter one bit if the game you produce is any good, or whether
+anyone else ever even plays it.  It doesn't matter if it's web-based (even
+if your day job is), or mobile, doesn't matter what technologies you use.
+The type of insight and problem-solving skills you build and tune when
+creating games will serve you well no matter what your day job is, even in
+ways that are far from obvious.
+
+I've been programming games for the better part of 35 years now.  No, none
+of them have been best-sellers or won awards or anything like that.  In
+fact, it's a safe bet that most people wouldn't have even heard of my games,
+even the ones still available today.  None of that matters because the
+experience of building them is far and away the most rewarding part of it.
+Perhaps the best thing about programming games is that they are, by their
+nature, fun!  You're creating something that's intended to be enjoyable so
+the process of creating it should absolutely be just as enjoyable.  How many
+things can you do that are really fun while still being challenging and
+simultaneously help build the skills needed for a long career?
+
+So yeah, make games, that's my simple two-word answer!
+</i>
+
+Q: <b>Is there something you wish you'd known or learned earlier as a programmer?</b>
+
+A: <i>
+Hmm, tough question actually. I guess if there was one thing (and I'll cheat and combine two things here because they're related) I would say that early on I didn't understand two very important phrases: "As simple as possible, but no simpler" and "Don't let the perfect be the enemy of the good".
+
+I have a natural perfectionist mentality, so I spend a lot of time pondering architecture, API design, etc. I once spent 33 hours straight working on a Commodore 64 demo because ONE lousy pixel was out of place and my perfectionist brain just couldn't live with it! Sometimes, I have to force myself to say "okay, it's good enough, you've planned enough, now get to work and actually BUILD stuff and refactor it later if needed", or I have to force myself to say "okay, it basically does what it's supposed to, it doesn't need to be absolutely flawless because nobody but me is even going to notice". Especially when you've got deadlines and people relying on you, you have to make sure you're working towards concrete goals and not constantly getting stuck trying to achieve perfection because you rarely are going to, at least initially anyway, no matter how hard you play or try - and the dirty little secret in IT is that perfection rarely matters anyway! Good enough is frequently, err, good enough :)
+
+And, your design/development approach should always strive to be as absolutely simple as possible. Of course, what constitutes "simple" is debatable and doesn't necessarily even always have the same meaning from project to project, but for me some key metrics are how many dependencies I have (web development today is a NIGHTMARE in this regard - less is GENERALLY better) and how many layers of abstraction there are. Developers, especially in the Java world, like to abstract everything and they do so under the assumption that it's more flexible. But if there's one thing I've learned over the years it's that the way to write flexible code is to write simple code. It's better than abstractions and extension points and that sort of stuff because it's just far easier to understand the consequences of your changes.
+
+As a corollary, terse code is NOT simpler code! Simple code is code that anyone can quickly understand, even less capable developers, and even yourself years after. Terse and "clever" code tends to be the exact opposite. Often times, more verbose code is actually simpler because there are less assumptions and often less knowledge needed to understand it, less "code hoping" you have to do to follow things. Related to this is that writing less code isn't AUTOMATICALLY better. No, you shouldn't re-invent the wheel, but you also shouldn't be AFRAID to invent a marginally better wheel when it makes sense. Knowing the difference is hard of course and comes from experience, but if you think it's ALWAYS better to write less code then you're going to make your life harder in the long run.
+
+Of course, don't over-simplify code either. Too simple and suddenly extending it almost MUST mean a refactor. You never want to completely refactor because you HAVE to in order to build an app over time. There's a balance that's difficult to strike but it should always be the goal.
+
+Oh yeah, and I wish I knew how to express myself in less words... but actually, I'm still obviously working on that one :)
 </i>
 
 -------
