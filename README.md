@@ -5,7 +5,11 @@ Thank you to everyone who took the time to answer these questions with passion!
 This is a compilation of answers I received from them. Some of these quotes are not limited to answers from that specific question. 
 
 
-Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your word of wisdom with growing developers around the world! :-)
+Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your answer to these questions:
+1. "How does one become a better developer"?
+2. "Is there anything you wish you'd learned or known earlier as a developer?"
+
+Thanks! :-)
  
     
 #Interviewees / Current Position
