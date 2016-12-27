@@ -6,7 +6,9 @@ This is a compilation of answers I received from them. Some of these quotes are 
 
 
 Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your answer to these questions:
+
 1. "How does one become a better developer"?
+
 2. "Is there anything you wish you'd learned or known earlier as a developer?"
 
 Thanks! :-)
