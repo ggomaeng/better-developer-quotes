@@ -134,7 +134,9 @@ I made the developer platform that all those games like FarmVille were on. Well 
 
 <a name="chris"></a>
 ###Chris Ohk
-<small>Chris graduated from KAIST and is currently working at Nexon Korea as a Game Programmer. He's very interested in C++, Game Engine Development, and Computer Graphics. He moderates the <b>C++ Korea</b> group on Facebook, leads many study groups, and writes/translates various books. He mentors and teaches many junior high and high school students, helping them grow as strong programmers. He is also a member of Microsoft MVP Community.
+<small>Chris graduated from KAIST and is currently working at Nexon Korea as a Game Programmer. 
+He's very interested in C++, Game Engine Development, and Computer Graphics. He moderates the [C++ Korea](https://www.facebook.com/groups/cppkorea/) 
+group on Facebook, leads many study groups, and writes/translates various books. He mentors and teaches many junior high and high school students, helping them grow as strong programmers. He is also a member of Microsoft MVP Community.
 
 
 https://github.com/utilForever</small>
@@ -185,7 +187,7 @@ A: <i> Everyone except me.</i>
 
 Q: <b>Anything else you want to add?</b>
 
-A: <i>1. Computer never lies. If there is a problem, always doubt yourself first.
+A: <i>1. Computer (most of the time) doesn't lie. If there is a problem, always doubt yourself first.
 2. It doesn't matter how early you started programming. What really matters is the amount of effort you put in. 
 3. If you don't know something for certain, don't finalize your decision. You could be wrong.
 </i>
