@@ -5,11 +5,7 @@ Thank you to everyone who took the time to answer these questions with passion!
 This is a compilation of answers I received from them. Some of these quotes are not limited to answers from that specific question. 
 
 
-Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to share your answer to these questions:
-
-1. "How does one become a better developer"?
-
-2. "Is there anything you wish you'd learned or known earlier as a developer?"
+Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if you want to be interviewed.
 
 Thanks! :-)
  
@@ -23,6 +19,8 @@ Thanks! :-)
 - [Brent Vatne (Front-end Developer @Exponent)](#brent) 
 
 - [Charlie Cheever (Co-founder @Exponent)](#charlie)
+
+- [Chris Ohk (Game Developer @Nexon and Visual C++ MVP @Microsoft MVP Community)](#chris)
 
 - [Christopher Chedeau (Front-end Engineer @Facebook)](#christopher)
 
@@ -134,7 +132,65 @@ I made the developer platform that all those games like FarmVille were on. Well 
 </i>
 --------------------
 
+<a name="chris"></a>
+###Chris Ohk
+<small>Chris graduated from KAIST and is currently working at Nexon Korea as a Game Programmer. He's very interested in C++, Game Engine Development, and Computer Graphics. He moderates the <b>C++ Korea</b> group on Facebook, leads many study groups, and writes/translates various books. He mentors and teaches many junior high and high school students, helping them grow as strong programmers. He is also a member of Microsoft MVP Community.
 
+
+https://github.com/utilForever</small>
+
+Q: <b>Can you tell me about your background as a programmer?</b>
+
+A: <i>
+I first started programming when I was 14 years old, and I joined Nexon Korea in September, 2015.
+</i>
+
+Q: <b>What do you do at Nexon? What project are you currently working on?</b>
+
+A: <i>
+I am in charge of Game Client development at Nexon. Currently, I am working on [Mabinogi Heroes](http://heroes.nexon.com/).
+</i>
+      
+Q: <b>What languages do you use the most? Is there a specific reason?</b>
+      
+A: <i>
+I mostly use C++ and C#. C++ is a language that depends heavily on the programmer--it could be either high risk or high return.
+Also, it's a language that can optimally maximize performance. 
+</i>
+
+Q: <b>Can you tell me more about Microsoft MVP Community? How did you join the community?</b>
+
+A: <i>
+Microsoft MVP is a professional group specifically focused on certain technology, and it's a community that oversees that technology and make it easier for others to understand.
+
+When I first created a community named C++ Korea, I had the chance to host the first seminar and present there.
+After, a member of C++ MVP community offered me a recommendation to join the community.
+</i>
+
+Q: <b>How do you think one can become a better developer?</b>
+
+A: <i>
+Continuous effort and the heart to love development and feedback.
+</i>
+
+Q: <b>Is there something you wish you'd known or learned earlier as a developer?</b>
+
+A:<i>
+No. Programming early doesn't make you a better programmer.
+</i>
+
+Q: <b>Are there any developers your respect?</b>
+
+A: <i> Everyone except me.</i>
+
+Q: <b>Anything else you want to add?</b>
+
+A: <i>1. Computer never lies. If there is a problem, always doubt yourself first.
+2. It doesn't matter how early you started programming. What really matters is the amount of effort you put in. 
+3. If you don't know something for certain, don't finalize your decision. You could be wrong.
+</i>
+
+--------------------
 
 <a name="christopher"></a>
 ###Christopher Chedeau
