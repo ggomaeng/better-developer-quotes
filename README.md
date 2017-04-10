@@ -10,7 +10,7 @@ Send me an email [@sungwoopark95@gmail.com](mailto:sungwoopark95@gmail.com) if y
 Thanks! :-)
  
     
-#Interviewees / Current Position
+# Interviewees / Current Position
 
 <b>Sorry! Links do not work on mobile! Please scroll down.</b>
 
@@ -46,11 +46,11 @@ Thanks! :-)
 
 - [Timothy Ko (Software Engineer @Snapchat)](#timothy)
  
-##Q&A
+## Q&A
 
 
 <a name="aravind"></a>
-###Aravind Kumaraguru
+### Aravind Kumaraguru
 <small>Aravind is an undergrad at UC Berkeley pursuing a degree in Electrical Engineering and Computer Science, and is Engineering Director for the nonprofit organization Pioneers in Engineering.
      
 https://pierobotics.org
@@ -84,7 +84,7 @@ In terms of academics, I just finished CS 189, which was a massive crash course 
 -------
 
 <a name="brent"></a>
-###Brent Vatne
+### Brent Vatne
 <small>Brent is Front-end web/mobile developer working on Exponent and React Native. He contributes to tons of open-source projects.
                 
 https://github.com/brentvatne</small>
@@ -108,7 +108,7 @@ A: <i>You can learn it as you go if you need to. there's also tons of pure javas
 
 ------------
 <a name="charlie"></a>
-###Charlie Cheever
+### Charlie Cheever
 <small>Charlie Cheever is the co-founder of Quora, an online knowledge market. He was formerly an engineer and manager at Facebook, where he oversaw the creation of Facebook Connect and the Facebook Platform. Prior to Facebook, Cheever was employed by Amazon.com in Seattle. He left Facebook to start Quora in June 2009 to work on Exponent.
 
 https://github.com/ccheever</small>
@@ -133,7 +133,7 @@ I made the developer platform that all those games like FarmVille were on. Well 
 --------------------
 
 <a name="chris"></a>
-###Chris Ohk
+### Chris Ohk
 <small>Chris graduated from KAIST and is currently working at Nexon Korea as a Game Programmer. 
 He's very interested in C++, Game Engine Development, and Computer Graphics. He moderates the [C++ Korea](https://www.facebook.com/groups/cppkorea/) 
 group on Facebook, leads many study groups, and writes/translates various books. He mentors and teaches many junior high and high school students, helping them grow as strong programmers. He is also a member of Microsoft MVP Community.
@@ -195,7 +195,7 @@ A: <i>1. Computer (most of the time) doesn't lie. If there is a problem, always 
 --------------------
 
 <a name="christopher"></a>
-###Christopher Chedeau
+### Christopher Chedeau
 <small>Christopher has been working at Facebook as a Front-end Engineer for about 5 years. Previously, he worked at Curse Network.
 
 https://github.com/vjeux</small>
@@ -242,7 +242,7 @@ If you are working on some random throwaway feature that no one is going to use,
 At the end of the day, we write all this code for the users, we should first understand what the user experience should be and then do whatever it takes to get it. 
 If the user just needs to display some content and needs to be able to edit it easily, just install wordpress, pick a good looking theme and call it a day
 
-######Btw, pro-tip, if you want to be successful, always think about the value you are providing. If you are earning $100k a year, this means that the company should be making $200k because you're here
+###### Btw, pro-tip, if you want to be successful, always think about the value you are providing. If you are earning $100k a year, this means that the company should be making $200k because you're here
 </i>
 
 ----------
@@ -291,7 +291,7 @@ Next on my learning list is learning Erlang/Elixir. We build heavily distributed
 
 -------
 <a name="frank"></a>
-###Frank W. Zammetti
+### Frank W. Zammetti
 
 <small>Frank is a lead architect for BNY Mellon by day and the author of eight
 books on various programming topics for Apress by night
@@ -365,7 +365,7 @@ Oh yeah, and I wish I knew how to express myself in less words... but actually, 
 
 -------
 <a name="janic"></a>
-###Janic Duplessis
+### Janic Duplessis
 
 <small>Janic is the co-founder of App & Flow, a react-native contributor and open-source contributor.
 
@@ -385,7 +385,7 @@ We keep some issues with a Good First Task label that should be a good place to 
 
 ------------
 <a name="jake"></a>
-###Jake Murzy
+### Jake Murzy
 
 <small>Jake is an Open-source Archaeologist. He writes buzzword compliant code. Co-founder at @commitocracy. 
 
@@ -399,7 +399,7 @@ It statically analyzes your code and recommends best practices to follow. You sh
 -----------
 
 <a name="junho"></a>
-###Jun Ho Hwang
+### Jun Ho Hwang
 
 <small>Jun is a software engineer at Coupang, which is <i>the $5 Billion Startup Filling Amazon's Void In South Korea</i>. He is a very friendly developer who loves to connect. 
 
@@ -426,7 +426,7 @@ Coupang provides a rocket-delivery-service, and I am working on developing a sys
 -----------
 
 <a name="keon"></a>
-###Keon Kim
+### Keon Kim
 <small>Keon is a student at NYU who is really passionate about Machine Learning. He is a very active GitHub member who tries to contribute to open source projects related to machine learning.
                 
 https://github.com/keonkim</small>
@@ -454,7 +454,7 @@ New languages, libraries, and frameworks are introduced iterally every day these
 -------
 
 <a name="mun"></a>
-###Munseok Oh
+### Munseok Oh
 <small>Munseok is a Full-stack developer and CTO at Sketchware. He previously worked at System Integration for ~7 years.  
                 
 https://sketchware.io</small>
@@ -487,7 +487,7 @@ But now, I'm really not worried--since developing brings joy to me now. Even if 
 -----------
 
 <a name="satyajit"></a>
-###Satyajit Sahoo
+### Satyajit Sahoo
 
 <small>Satyajit is the UX Lead at Glucosio, and Front-end Engineer at Callstack.io. He is an amazing open-source contributor; he is one of the top 5 contributors in React Native 
 
@@ -519,7 +519,7 @@ I think it's important that we are open to new things. There's a lot to learn, a
 -------
 
 <a name="sonny"></a>
-###Sonny Lazuardi Hermawan
+### Sonny Lazuardi Hermawan
 
 <small>Sonny is a JavaScript Full Stack Engineer, a React & React Native player, and an Open source enthusiast. He currently works as an Engineer at Sale Stock.
 
@@ -542,7 +542,7 @@ I just want the people know about our idea, and try implementing it so that othe
 
 -------
 <a name="sunggu"></a>
-###Sunggu Hwang
+### Sunggu Hwang
 
 <small>Sunggu worked at Daum Communications for 4 years. Then, he left Daum to work at Scatter Lab as the CTO. This is his 5th year at Scatter Lab. 
 
@@ -568,7 +568,7 @@ A: <i>I think deep learning is a must. Try different tutorials and learn it with
 
 <a name="timothy"></a>
 
-###Timothy Ko
+### Timothy Ko
 
 <small>Timothy is a software engineer at Snapchat. He previously worked at many places such as Riot Games, Square, etc. 
 
