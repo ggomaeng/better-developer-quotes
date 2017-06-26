@@ -216,7 +216,7 @@ I was working for Curse (doing website for blizzard games) during my college to 
 Q: <b>What's your day to day like at Facebook? Current project you're working on?</b>
 
 A: <i>
-I'm currently working on the Nuclide team, Facebook's IDE built on-top of Atom. I would say my time is spend half coding, half cheerleading all the cool stuff people are doing inside of fb. 
+I'm currently working on the Nuclide team, Facebook's IDE built on-top of Atom. I would say my time is spent half coding, half cheerleading all the cool stuff people are doing inside of fb. 
 </i>
 
 Q: <b>How do you think one can become a better developer?</b>
